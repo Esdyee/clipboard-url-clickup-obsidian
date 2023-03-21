@@ -1,0 +1,17 @@
+{
+  "name": "clipboard-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "active-win": "^8.1.0",
+    "clipboard-event": "^1.6.0",
+    "node-clipboardy": "^1.0.3"
+  }
+}
